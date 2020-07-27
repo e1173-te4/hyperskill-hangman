@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import random
+
+
+    # work with this variable
+    n = int(input())
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7029
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 27 Jul 2020 15:02:18 UTC
+record: -1

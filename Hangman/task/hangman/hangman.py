@@ -1,1 +1,1 @@
-# Write your code hereprint('123123')
+import random# Write your code hereword_list = ['python', 'java', 'kotlin', 'javascript']print('H A N G M A N')print('You survived!' if input('Guess the word: > ') == random.choice(word_list) else 'You are hanged!')

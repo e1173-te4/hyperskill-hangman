@@ -1,0 +1,12 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: '# put your python code here'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6812
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 27 Jul 2020 13:30:20 UTC
+record: -1

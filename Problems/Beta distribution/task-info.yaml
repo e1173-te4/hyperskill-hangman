@@ -1,0 +1,17 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    import random
+
+
+    random.seed(3)
+    # call the function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7842
+status: Unchecked
+feedback:
+  message: Failed to get check result from JetBrains Academy
+  time: Mon, 27 Jul 2020 14:55:40 UTC
+record: -1
